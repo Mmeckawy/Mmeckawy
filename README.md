@@ -7,5 +7,15 @@ I'm a software engineering student graduating at June 2023. I'm passionate about
 </div>
 <br>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mariam-hemdan-06853218b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/@mmeckawy )">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmeckawy&show_icons=true&theme=tokyonight&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mmeckawy&theme=tokyonight)](https://git.io/streak-stats)
