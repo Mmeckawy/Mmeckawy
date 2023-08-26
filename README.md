@@ -15,6 +15,6 @@ I'm a software engineering student graduating at June 2023. I'm passionate about
 </div>
 <br>
 
-![Anurag's GitHub stats](http://github-readme-stats.vercel.app/api?username=Mmeckawy&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](http://github-stats-5of4dewqi-mmeckawy.vercel.app/api?username=Mmeckawy&show_icons=true&theme=tokyonight&count_private=true)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mmeckawy&theme=tokyonight)](https://git.io/streak-stats)
