@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there I'm Mariam 👋 </h1>
 
-I'm a computer engineering graduate '23. I'm passionate about learning new technologies and I enjoy working with a team to develop new ones.
+Fresh graduate '23. I'm passionate about learning new technologies and I enjoy working with a team to develop new ones.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
