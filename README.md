@@ -17,4 +17,4 @@ Fresh graduate '23. I'm passionate about learning new technologies and I enjoy w
 
 ![Anurag's GitHub stats](https://github-stats-jet-delta.vercel.app/api?username=Mmeckawy&show_icons=true&theme=tokyonight&count_private=true)
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mmeckawy&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mmeckawy&theme=tokyonight)](https://git.io/streak-stats)
