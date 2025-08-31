@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there I'm Mariam 👋 </h1>
 
-Junior information security engineer and I'm passionate about learning new technologies and I enjoy working with a team to develop new ones.
+I'm Junior information security engineer who is passionate about learning new technologies and security solutions.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
